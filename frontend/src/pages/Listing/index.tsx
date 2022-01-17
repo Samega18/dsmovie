@@ -1,7 +1,7 @@
-import MovieCard from "components/MovieCard";
-import MovieScore from "components/MovieScore";
-import MovieStars from "components/MovieStars";
-import Pagination from "components/Pagination";
+import MovieCard from "components/movie-card";
+import MovieScore from "components/movie-score";
+import MovieStars from "components/movie-stars";
+import Pagination from "components/pagination-";
 
 function Listing(){
     return(
