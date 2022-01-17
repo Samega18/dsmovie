@@ -3,9 +3,10 @@ import {
   Routes,
   Route
 } from "react-router-dom";
-import Listing from 'pages/listing';
-import Form from 'pages/form';
-import Navbar from "components/nav-bar";
+
+import Listing from 'pages/listing/index';
+import Form from 'pages/form/index';
+import Navbar from "components/nav-bar/index";
 
 function App() {
   return (
